@@ -122,7 +122,7 @@ The app is designed to work seamlessly out of the box for a film festival but ca
 
 ### Program View
 
-![Program View](path/to/screenshot1.png)
+!https://github.com/fabiohuwyler/Queersicht/blob/main/SCREENSHOTS/Home-left.png 
 
 ### Movie Detail
 
