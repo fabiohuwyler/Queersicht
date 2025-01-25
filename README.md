@@ -122,15 +122,15 @@ The app is designed to work seamlessly out of the box for a film festival but ca
 
 ### Program View
 
-!https://github.com/fabiohuwyler/Queersicht/blob/main/SCREENSHOTS/Home-left.png 
+![Program View](https://github.com/fabiohuwyler/Queersicht/blob/main/SCREENSHOTS/Home-left.png)
 
 ### Movie Detail
 
-![Movie Detail](https://github.com/fabiohuwyler/Queersicht/blob/main/SCREENSHOTS/Home-left.png)
+![Movie Detail](https://github.com/fabiohuwyler/Queersicht/blob/main/SCREENSHOTS/MovieDetail-left.png)
 
 ### Location Detail
 
-![Location Detail](path/to/screenshot3.png)
+![Location Detail](https://github.com/fabiohuwyler/Queersicht/blob/main/SCREENSHOTS/PlaceDetail-left.png)
 
 ---
 
