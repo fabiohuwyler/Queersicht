@@ -58,9 +58,9 @@ This app is not only tailored for Queersicht but also serves as a **starter temp
 
    ```bash
 
-   git clone https://github.com/yourusername/queersicht-app.git
+   git clone https://github.com/fabiohuwyler/Queersicht.git
 
-   cd queersicht-app
+   cd queersicht
 
    ```
 
