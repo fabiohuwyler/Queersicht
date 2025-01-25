@@ -126,7 +126,7 @@ The app is designed to work seamlessly out of the box for a film festival but ca
 
 ### Movie Detail
 
-![Movie Detail](path/to/screenshot2.png)
+![Movie Detail](https://github.com/fabiohuwyler/Queersicht/blob/main/SCREENSHOTS/Home-left.png)
 
 ### Location Detail
 
